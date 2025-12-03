@@ -1,4 +1,14 @@
-# Ignore local scripts and generated files
+# Ignore generated files and local scripts
 request_seed.py
 encrypted_seed.txt
 seed.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / editor config files
+.vscode/
+.idea/
+
+# Cron file for line endings is tracked, so do NOT ignore cron/2fa-cron
