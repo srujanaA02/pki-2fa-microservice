@@ -1,3 +1,4 @@
 # Ignore local scripts and generated files
 request_seed.py
 encrypted_seed.txt
+seed.txt
